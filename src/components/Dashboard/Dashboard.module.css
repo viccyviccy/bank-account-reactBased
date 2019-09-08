@@ -1,0 +1,7 @@
+.dashboard {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  margin: 50px 0;
+  border: 1px solid black;
+}

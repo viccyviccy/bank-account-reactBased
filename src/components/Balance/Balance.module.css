@@ -1,0 +1,16 @@
+.balance {
+  display: flex;
+  flex-flow: row;
+  border: 1px dotted rgb(0, 0, 0);
+  background-color: rgba(255, 255, 255, 0.3);
+  justify-content: space-between;
+  width: 45%;
+  align-self: center;
+  margin-top: 10px;
+}
+
+span {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  font-size: 18px;
+}

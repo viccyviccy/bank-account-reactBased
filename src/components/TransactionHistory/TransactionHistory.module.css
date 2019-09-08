@@ -1,0 +1,23 @@
+.history {
+  background-color: rgba(255, 255, 255, 0.3);
+  margin: 30px;
+}
+
+tbody {
+  border: 1px dotted black;
+}
+tr:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+td {
+  border: 1px dotted rgba(0, 0, 0, 0.5);
+}
+
+th,
+td {
+  width: 270px;
+}
